@@ -50,6 +50,7 @@ require('./spec/signaling/v2/peerconnectionmanager');
 require('./spec/signaling/v2/localtrackpublication');
 require('./spec/signaling/v2/remotetrack');
 require('./spec/signaling/v2/transport');
+require('./spec/signaling/v2/twilioconnectiontransport');
 
 require('./spec/util');
 require('./spec/util/insightspublisher');
